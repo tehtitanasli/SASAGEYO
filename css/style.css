@@ -550,7 +550,7 @@ ul.conta_top li a {
 .about::before {
      position: absolute;
      content: "";
-      background-repeat: no-repeat;
+     background-repeat: no-repeat;
      width: 360px;
      height: 212px;
      top: 0;
